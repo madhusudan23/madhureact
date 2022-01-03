@@ -15,9 +15,9 @@ export default function Navbar(props) {
         </li>
         <li className="nav-item">
           <a className="nav-link" href="/home">About</a>
-        </li>
+        {/* </li>
         <li className="nav-item">
-          <a className="nav-link" href="/home">Contact</a>
+          <a className="nav-link" href="/home">Contact</a> */}
         </li>
         {/* <li className="nav-item dropdown">
           <a className="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
