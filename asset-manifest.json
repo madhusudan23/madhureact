@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.e6c13ad2.css",
-    "main.js": "/my-app/static/js/main.cab6fece.js",
-    "static/js/787.298afbdd.chunk.js": "/my-app/static/js/787.298afbdd.chunk.js",
-    "index.html": "/my-app/index.html",
-    "main.e6c13ad2.css.map": "/my-app/static/css/main.e6c13ad2.css.map",
-    "main.cab6fece.js.map": "/my-app/static/js/main.cab6fece.js.map",
-    "787.298afbdd.chunk.js.map": "/my-app/static/js/787.298afbdd.chunk.js.map"
+    "main.css": "/madhureact/static/css/main.e6c13ad2.css",
+    "main.js": "/madhureact/static/js/main.d754d533.js",
+    "static/js/787.298afbdd.chunk.js": "/madhureact/static/js/787.298afbdd.chunk.js",
+    "index.html": "/madhureact/index.html",
+    "main.e6c13ad2.css.map": "/madhureact/static/css/main.e6c13ad2.css.map",
+    "main.d754d533.js.map": "/madhureact/static/js/main.d754d533.js.map",
+    "787.298afbdd.chunk.js.map": "/madhureact/static/js/787.298afbdd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.cab6fece.js"
+    "static/js/main.d754d533.js"
   ]
 }
